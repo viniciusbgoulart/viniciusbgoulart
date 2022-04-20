@@ -13,12 +13,15 @@
 - **Statistics**: Probabilities, Distributions and Hypothesis Testing;
 - **Machine Learning pipeline & ETL:** build, evaluate and deploy machine learning models (supervised and unsupervised) with Scikit-Learn.
 
+<br>
+<br>
 
 **Currently:**
 
 - 🤓 Continuously improving Python, SQL, Statistics, Tableau, among other skills at DataCamp.com and IronHack (expected to end in June 2022)
 - 💬 Ask me about trips and airplanes
 
+<br>
 <br>
 
 - 📫 How to reach me: 👇🏻
