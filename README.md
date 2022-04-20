@@ -17,8 +17,8 @@
 
 **Currently:**
 
-- 🌋 Continuously improving Python, SQL, Statistics, Tableau, among other skills at DataCamp.com and IronHack (expected to end in June 2022)
-- 🤓 Continuously improving Python, SQL, Statistics, Tableau, among other skills at DataCamp.com
+- 🌋 Continuously improving Python, SQL, Statistics, Tableau and other skills at DataCamp.com and IronHack (expected to end in June 2022)
+- 🤓 Continuously training Python, SQL, Statistics, Tableau, among other skills at DataCamp.com
 - 💬 Ask me about trips and airplanes
 
 <br>
