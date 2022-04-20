@@ -5,8 +5,7 @@
 ### **Here is Vinicius and ...**
 
 - 📊 I am a *very happy* **Data Analyst** currently working at **Youse**, a brazilian insurtech.
-- 💰 I devoted the first semester of 2022 to an amazing journey through IronHack's Data Analytics bootcamp where I was able to dive through:
-
+- 💰 I devoted the first semester of 2022 to an amazing journey in  IronHack's Data Analytics bootcamp where I was able to dive in at:
 - **Python:** Pandas, Numpy, Regular Expressions, Functional Programming, Lambdas, Map, Reduce, Error Handling and Object Oriented Programming;
 - **ETL Pipeline:** Extracting, Tranforming, Loading; APIs and Web Scrapping;
 - **Storytelling and Data Visualization:** Tableau, Matplotlib and Seaborn;
@@ -20,6 +19,8 @@
 
 - 🤓 Continuously improving Python, SQL, Statistics, Tableau, among other skills at DataCamp.com and IronHack (expected to end in June 2022)
 - 💬 Ask me about trips and airplanes
+
+<br>
 
 - 📫 How to reach me: 👇🏻
 
