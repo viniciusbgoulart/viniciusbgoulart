@@ -13,7 +13,6 @@
 - **Statistics**: Probabilities, Distributions and Hypothesis Testing;
 - **Machine Learning pipeline & ETL:** build, evaluate and deploy machine learning models (supervised and unsupervised) with Scikit-Learn.
 
-<hr>
 
 **Currently:**
 
@@ -24,7 +23,7 @@
 
 - 📫 How to reach me: 👇🏻
 
-[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vinicius-goulart/)
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vinicius-goulart/)
 
 <hr>
 
