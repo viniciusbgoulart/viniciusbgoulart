@@ -13,7 +13,7 @@
 - **Statistics**: Probabilities, Distributions and Hypothesis Testing;
 - **Machine Learning pipeline & ETL:** build, evaluate and deploy machine learning models (supervised and unsupervised) with Scikit-Learn
 
-<br>
+
 
 **Currently:**
 
@@ -29,7 +29,7 @@
 
 <hr>
 
-#### Languages and Tools:
+#### Languages, Tools and Courses:
 
 ![Python Badge](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen)
 ![MySQL Badge](https://img.shields.io/badge/MySQL-0000FF?style=for-the-badge&logo=mysql&logoColor=white)
