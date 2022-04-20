@@ -3,7 +3,7 @@
 <br>
 
 ### **Here is Vinicius and ...**
-
+<br>
 - 📊 I am a *very happy* **Data Analyst** currently working at **Youse**, a brazilian insurtech.
 - 💰 I devoted the first semester of 2022 to an amazing journey in  IronHack's Data Analytics bootcamp where I was able to dive in at:
 - **Python:** Pandas, Numpy, Regular Expressions, Functional Programming, Lambdas, Map, Reduce, Error Handling and Object Oriented Programming;
@@ -25,8 +25,8 @@
 <br>
 
 - 📫 How to reach me: 👇🏻
-<br>
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vinicius-goulart/)
+
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vinicius-goulart/)
 
 <hr>
 
