@@ -6,23 +6,20 @@
 
 - 📊 I am a *very happy* **Data Analyst** currently working at **Youse**, a brazilian insurtech.
 - 💰 I devoted the first semester of 2022 to an amazing journey in  IronHack's Data Analytics bootcamp where I was able to dive in at:
-
 - **Python:** Pandas, Numpy, Regular Expressions, Functional Programming, Lambdas, Map, Reduce, Error Handling and Object Oriented Programming
-
 - **ETL Pipeline:** Extracting, Tranforming, Loading; APIs and Web Scrapping
-
 - **Storytelling and Data Visualization:** Tableau, Matplotlib and Seaborn
-
 - **SQL:** MySQL
 - **Statistics**: Probabilities, Distributions and Hypothesis Testing;
 - **Machine Learning pipeline & ETL:** build, evaluate and deploy machine learning models (supervised and unsupervised) with Scikit-Learn
-- 
+
 <br>
 <br>
 
 **Currently:**
 
-- 🤓 Continuously improving Python, SQL, Statistics, Tableau, among other skills at DataCamp.com and IronHack (expected to end in June 2022)
+- 🌋 Continuously improving Python, SQL, Statistics, Tableau, among other skills at DataCamp.com and IronHack (expected to end in June 2022)
+- 🤓 Continuously improving Python, SQL, Statistics, Tableau, among other skills at DataCamp.com
 - 💬 Ask me about trips and airplanes
 
 <br>
